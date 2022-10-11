@@ -1,5 +1,5 @@
-# edgenet
-Shoe Image Classifier
+# shoe_image_classifier
+
 
 The goal of the project was to build a demo image classification application for EdgeNet that can take as input an image, classify it and then perform some additional operations based on the classification.
 
